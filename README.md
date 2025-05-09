@@ -1,4 +1,4 @@
-## 🛍️ Exclusive E-Commerce Platform
+# 🛍️ Exclusive E-Commerce Platform
 Exclusive E-Commerce is a modern, responsive, and scalable online shopping platform built to deliver a seamless customer experience. It supports product listings, user authentication, cart management, and secure checkout—all with a clean UI and optimized performance.
 
 # 🛠️ Tech Stack
